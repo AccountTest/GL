@@ -1,0 +1,8 @@
+npm WARN prefer global jshint@0.7.1 should be installed with -g
+npm WARN prefer global npm@1.1.24 should be installed with -g
+
+
+
+/usr/bin/npm install -g jshint@0.7.1
+/usr/bin/npm install -g npm@1.1.24
+
